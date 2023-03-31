@@ -34,7 +34,7 @@ main {
     font-size: 0.7rem;
     padding: 40px;
     height: 550px;
-    width: 400px;
+    width: 390px;
     background-repeat: no-repeat;
     background-position: top;
     background-size: contain;
@@ -55,14 +55,14 @@ h1 {
 }
 
 p{
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     opacity: 70%;
     color: hsl(224, 23%, 55%);
 }
 
 .btn{
     font-weight: 600;
-    font-size: 0.7rem;
+    font-size: 0.8rem;
 }
 
 .payBtn{
