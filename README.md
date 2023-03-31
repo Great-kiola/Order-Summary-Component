@@ -1,5 +1,4 @@
-# Order-Summary-Component
-# Frontend Mentor - Order summary card solution
+# Order summary card solution- Frontend Mentor
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -13,13 +12,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+<img width="1434" alt="image" src="https://user-images.githubusercontent.com/117322790/229100734-6b9eb7ac-26b9-430a-9b42-52b3f972831a.png">
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Great-kiola/Order-Summary-Component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
