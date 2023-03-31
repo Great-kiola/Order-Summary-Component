@@ -10,6 +10,7 @@ body {
     background: url(./images/pattern-background-desktop.svg);
     background-repeat: no-repeat;
     background-size: contain;
+    background-position: top;
     background-color: hsl(225, 100%, 94%);
     display: flex;
     justify-content: center;
@@ -72,8 +73,12 @@ p{
     border-radius: 7px;
     border: none;
     margin: 25px auto 20px;
-    box-shadow: 12px 12px 12px 0.5px rgba(0, 0, 255, .2);
     cursor: pointer;
+}
+
+.payBtn:hover{
+    transition: box-shadow 0.3s ease-in-out;
+    box-shadow: 12px 12px 12px 0.5px rgba(0, 0, 255, .2);
 }
 
 .iconDiv{
