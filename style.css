@@ -16,13 +16,14 @@ body {
     align-items: center;
     height: 100vh;
     flex-direction: column;
-    font-family: 'Red Hat Display', sans-serif;
+    font-family: 'Red Hat Display', sans-serif;    
 }
 
 main {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin: 30px;
 }
 
 .container {
@@ -31,7 +32,7 @@ main {
     border-radius: 20px;
     font-size: 0.7rem;
     padding: 40px;
-    height: 500px;
+    height: 520px;
     width: 350px;
     background-repeat: no-repeat;
     background-position: top;
@@ -44,11 +45,73 @@ main {
 
 .titleBox {
     text-align: center;
-    margin: 55px auto 10px;    
+    margin: 160px auto 20px;    
 }
 
 h1 {
     font-weight: 900;
+    margin: 10px;
+}
+
+p{
+    font-size: 0.8rem;
+    opacity: 70%;
+    color: hsl(224, 23%, 55%);
+}
+
+.btn{
+    font-weight: 600;
+    font-size: 0.7rem;
+}
+
+.payBtn{
+    background-color: hsl(245, 75%, 52%);
+    color: white;
+    padding: 15px;
+    width: 100%;
+    border-radius: 7px;
+    border: none;
+    margin: 25px auto 20px;
+    box-shadow: 12px 12px 12px 0.5px rgba(0, 0, 255, .2);
+    cursor: pointer;
+}
+
+.iconDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 10px;
+}
+
+.annualPlan{
+    margin: 10px;
+}
+
+.annualPlan p{
+    font-size: 0.7rem;
+}
+
+.music{
+    padding: 12px;
+    background-color: hsl(225, 100%, 94%);
+    border-radius: 100%;
+}
+
+.cancel {
+    border: none;
+    background-color: transparent;
+    color: hsl(224, 23%, 55%);
+    cursor: pointer;
+}
+
+.planBox {
+    background-color: hsl(225, 100%, 98%);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    border-radius: 10px;
 }
 
 .attribution {
